@@ -1,11 +1,11 @@
 # The power of open science *(template for you to play with)*
 
-Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
+Slides for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid)
-- github: [@jules32](https://github.com/jules32)
+- twitter: No idea, haven't checked here in awhile.. is this a chat room for birds?
+- github: [@gambler1650](https://github.com/gambler1650)
 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
